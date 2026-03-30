@@ -1,2 +1,3 @@
-# bg-remover-cf-final
-Image Background Remover - Cloudflare Pages
+# Image Background Remover
+
+- Anon Background Remover - MVF
